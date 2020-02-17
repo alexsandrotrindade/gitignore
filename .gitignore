@@ -1,0 +1,4 @@
+# Ignora arquivo python
+/test
+*.pyc
+
